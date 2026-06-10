@@ -1,0 +1,17 @@
+# Ignore training checkpoints
+imdb_training_checkpoints/
+
+# Ignore saved model
+saved_imdb_sentiment_model/
+
+# Ignore venv under week9
+week9/.venv/
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional
+.env
