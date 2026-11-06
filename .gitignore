@@ -14,4 +14,5 @@ __pycache__/
 *.pyd
 
 # Optional
-.env
+.env.venv/
+.ipynb_checkpoints/
