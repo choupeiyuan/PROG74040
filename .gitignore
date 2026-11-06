@@ -16,3 +16,15 @@ __pycache__/
 # Optional
 .env.venv/
 .ipynb_checkpoints/
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+.venv/
+.DS_Store
+.ipynb_checkpoints/
